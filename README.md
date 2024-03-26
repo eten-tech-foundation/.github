@@ -1,1 +1,1 @@
-# .github
+# BiblioNexus Foundation
