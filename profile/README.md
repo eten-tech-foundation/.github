@@ -1,1 +1,1 @@
-# BiblioNexus Foundation
+# eten-tech-foundation
