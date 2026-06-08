@@ -1,1 +1,1 @@
-# eten-tech-foundation
+# ETEN Technology Foundation
